@@ -1,0 +1,17 @@
+h1 { 
+    color: blue;
+    text-align: center;
+    text-decoration: 
+    }
+    h2{
+        color: firebrick;
+    }
+    h3{
+        color: green;
+    }
+    img{
+        box-shadow: unset;
+    }
+    section{
+        background-color: coral;
+    }
