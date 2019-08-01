@@ -10,7 +10,7 @@ h1 {
         color: green;
     }
     img{
-        box-shadow: unset;
+        box-shadow: 10px;
     }
     section{
         background-color: coral;
